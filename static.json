@@ -3,6 +3,10 @@
     "/*": {
       "X-Author": "mr_Sobolev",
       "Access-Control-Allow-Origin": "*"
+    },
+    "/login/*": {
+      "X-Author": "mr_Sobolev1111",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
