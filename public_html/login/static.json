@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "mr_Sobolev2323",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
