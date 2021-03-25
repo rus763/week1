@@ -1,1 +1,3 @@
-(()=>{"use strict";console.log("mr_Sobolev".toUpperCase())})();
+function task(x) {
+  return x.toUpperCase();
+}
