@@ -6,11 +6,10 @@
     },
     "/login/*": {
       "Content-type": "text/plain; charset=UTF-8",
-      "X-Author": "mr_Sobolev1111",
+      "X-Author": "mr_Sobolev",
       "Access-Control-Allow-Origin": "*"
     },
     "/sample/*": {
-      "Content-type": "text/html; charset=UTF-8",
       "X-Author": "mr_Sobolev1111",
       "Access-Control-Allow-Origin": "*"
     }
